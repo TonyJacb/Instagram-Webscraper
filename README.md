@@ -7,3 +7,6 @@ The `scrapper.py` scrapped all them accounts and stored in a CSV which then was 
 Above is the screenshot of the terminal with the preview of the scrapped data
 
 My calculations told me that the entire computation will take 15 hours. So I had to kill it after scrapping ~500 accounts. I dont have that much time.
+
+Viv:
+The final aim is to eventually access the follower and following name list for each individual. Process could be sped up using spider splits. 
