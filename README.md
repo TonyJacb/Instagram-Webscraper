@@ -3,6 +3,7 @@ On seeing this very particular link (pasted on the repo), I was curious to scrap
 
 The `scrapper.py` scrapped all them accounts and stored in a CSV which then was accessed by `main.py` to hit the accounts and get the basic profile details such as postCount, followerCount and followingCount. 
 
-![alt text](https://github.com/TonyJacb/Instagram-WebScraper/blob/main/terminal.png?raw=true "Screenshot of the Terminal during scrapping")
+![alt text](https://github.com/TonyJacb/Instagram-WebScraper/blob/main/terminal.png?raw=true)
+Above is the screenshot of the terminal with the preview of the scrapped data
 
 My calculations told me that the entire computation will take 15 hours. So I had to kill it after scrapping ~500 accounts. I dont have that much time.
