@@ -17,9 +17,9 @@ def Scrapper():
 
     nameList = []
     username = browser.find_element_by_name('username')
-    username.send_keys("tonyjacob_")
+    username.send_keys(#ENTER USERNAME)
     password = browser.find_element_by_name('password')
-    password.send_keys("Revelations")
+    password.send_keys(#ENTER PASSWORD)
     nextButton = browser.find_element_by_xpath("/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[3]/button")
     nextButton.click()
     time.sleep(4)
